@@ -2,10 +2,10 @@ import requests
 import facebook
 
 # 填入您的存取權杖
-access_token = 'EABXB0gWIGF0BAEOnFo6ptymfqH448ZB3l5MU7hLA70eGXZC7DNdDI2r1t7MEdd4hHATNl0T91briV8Y6Yg5kh8qV9JTjK4d4dx4lbjZBeEy5YADm9hvjmm7vVm9hY2nxZB9ZBiYTbZCPnU6g0O1luHQx4T0ZBJ3QZCm4wUXPwvwFuXK1ZB1uXM72MhmWvuqR68soZD'
+access_token = 'token'
 
 # 填入您的粉絲專頁ID
-page_ids = ['376382859623485', '104343679256567', '103824709308769']
+page_ids = ['id']
 
 # 要發布的貼文內容
 post_message = '''第一眼看到她就覺得她很適合
